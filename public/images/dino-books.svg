@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Dino imut membaca buku">
+  <!-- sparkles -->
+  <g fill="#FFC94D" stroke="#E8A317" stroke-width="1.5" stroke-linejoin="round">
+    <path transform="translate(34 58)" d="M0 -9 Q0 0 9 0 Q0 0 0 9 Q0 0 -9 0 Q0 0 0 -9 Z"/>
+    <path transform="translate(208 50) scale(.8)" d="M0 -9 Q0 0 9 0 Q0 0 0 9 Q0 0 -9 0 Q0 0 0 -9 Z"/>
+    <path transform="translate(30 150) scale(.7)" d="M0 -9 Q0 0 9 0 Q0 0 0 9 Q0 0 -9 0 Q0 0 0 -9 Z"/>
+    <path transform="translate(212 138)" d="M0 -9 Q0 0 9 0 Q0 0 0 9 Q0 0 -9 0 Q0 0 0 -9 Z"/>
+  </g>
+  <!-- tail -->
+  <path d="M152 196 C192 204 210 182 200 160 C196 176 182 182 158 176 Z" fill="#7ACB5A" stroke="#2F5E1E" stroke-width="3" stroke-linejoin="round"/>
+  <!-- body -->
+  <ellipse cx="120" cy="182" rx="44" ry="36" fill="#7ACB5A" stroke="#2F5E1E" stroke-width="3"/>
+  <ellipse cx="120" cy="190" rx="28" ry="21" fill="#E4F7C9"/>
+  <!-- feet -->
+  <ellipse cx="98" cy="219" rx="17" ry="8" fill="#7ACB5A" stroke="#2F5E1E" stroke-width="3"/>
+  <ellipse cx="142" cy="219" rx="17" ry="8" fill="#7ACB5A" stroke="#2F5E1E" stroke-width="3"/>
+  <!-- head bumps -->
+  <circle cx="88" cy="41" r="11" fill="#FFB38A" stroke="#2F5E1E" stroke-width="3"/>
+  <circle cx="120" cy="30" r="13" fill="#FFB38A" stroke="#2F5E1E" stroke-width="3"/>
+  <circle cx="152" cy="41" r="11" fill="#FFB38A" stroke="#2F5E1E" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="120" cy="92" rx="70" ry="58" fill="#7ACB5A" stroke="#2F5E1E" stroke-width="3"/>
+  <ellipse cx="80" cy="62" rx="13" ry="6" fill="#FFFFFF" opacity=".4" transform="rotate(-28 80 62)"/>
+  <!-- blush -->
+  <ellipse cx="66" cy="120" rx="11" ry="6.5" fill="#FF8FA8" opacity=".8"/>
+  <ellipse cx="174" cy="120" rx="11" ry="6.5" fill="#FF8FA8" opacity=".8"/>
+  <!-- big shiny eyes -->
+  <ellipse cx="93" cy="99" rx="10" ry="12.5" fill="#2B1B12"/>
+  <ellipse cx="147" cy="99" rx="10" ry="12.5" fill="#2B1B12"/>
+  <circle cx="89" cy="93" r="4" fill="#FFFFFF"/>
+  <circle cx="143" cy="93" r="4" fill="#FFFFFF"/>
+  <circle cx="97" cy="105" r="2" fill="#FFFFFF"/>
+  <circle cx="151" cy="105" r="2" fill="#FFFFFF"/>
+  <!-- round glasses -->
+  <circle cx="93" cy="98" r="20" fill="#FFFFFF" fill-opacity=".18" stroke="#8A4B2A" stroke-width="3"/>
+  <circle cx="147" cy="98" r="20" fill="#FFFFFF" fill-opacity=".18" stroke="#8A4B2A" stroke-width="3"/>
+  <path d="M113 95 Q120 88 127 95" fill="none" stroke="#8A4B2A" stroke-width="3" stroke-linecap="round"/>
+  <!-- mouth -->
+  <path d="M111 126 Q120 136 129 126" fill="#FF8FA8" stroke="#2F5E1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- open book -->
+  <path d="M120 162 L82 156 L82 192 L120 198 Z" fill="#FFF6DD" stroke="#8A4B2A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M120 162 L158 156 L158 192 L120 198 Z" fill="#FFFFFF" stroke="#8A4B2A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M90 166 L112 169.5 M90 175 L112 178.5 M90 184 L112 187.5" stroke="#D8C49B" stroke-width="2.5" stroke-linecap="round"/>
+  <path transform="translate(139 176)" d="M0 5 C-9 -2 -6 -9 0 -4 C6 -9 9 -2 0 5 Z" fill="#FF8FA8"/>
+  <path d="M78 194 L120 202 L162 194" fill="none" stroke="#E86F8F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hands -->
+  <circle cx="84" cy="178" r="8.5" fill="#7ACB5A" stroke="#2F5E1E" stroke-width="3"/>
+  <circle cx="156" cy="178" r="8.5" fill="#7ACB5A" stroke="#2F5E1E" stroke-width="3"/>
+</svg>
